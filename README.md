@@ -7,7 +7,7 @@
 ### Cut · Record · Convert — 100% on your device
 
 **A private, offline media toolkit for Windows.**
-Five tools in one app. No uploads, no account, no telemetry.
+Many tools in one app. No uploads, no account, no telemetry.
 
 [**→ Get Slice at slice-crc.com**](https://slice-crc.com/)
 
