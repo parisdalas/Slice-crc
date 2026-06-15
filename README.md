@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.png" alt="Slice CRC" width="92">
+<img src="logo-256.png" alt="Slice CRC" width="92">
 
 # Slice CRC
 
