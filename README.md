@@ -13,7 +13,7 @@ Many tools in one app. No uploads, no account, no telemetry.
 
 <br>
 
-<img src="hub-wide.webp" alt="Slice CRC — five tools in one window" width="760">
+<img src="hero.webp" alt="Slice CRC — many media tools in one app, fully offline" width="820">
 
 </div>
 
