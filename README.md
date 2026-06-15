@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/logo.png" alt="Slice CRC" width="92">
+
 # Slice CRC
 
 ### Cut · Record · Convert — 100% on your device
@@ -8,6 +10,10 @@
 Five tools in one app. No uploads, no account, no telemetry.
 
 [**→ Get Slice at slice-crc.com**](https://slice-crc.com/)
+
+<br>
+
+<img src="assets/hub-wide.webp" alt="Slice CRC — five tools in one window" width="760">
 
 </div>
 
@@ -19,15 +25,44 @@ Slice CRC is a Windows app that bundles five media tools into a single window. E
 
 It's built for people who want quick, no-nonsense media editing without throwing their files at a cloud service.
 
+---
+
 ## The five tools
 
-| Tool | What it does |
-|------|--------------|
-| 🎵 **MP3 Cutter** | Cut songs on a real waveform. Mark multiple sections to keep or remove, drag the handles, and export one clean MP3 with seamless joins. |
-| 🎬 **MP4 Cutter** | Keep or remove several sections, crop the frame, drop the audio — all in one export. Frame-accurate, with smart bitrate detection. |
-| 🔄 **Converter** | Turn AVI, WMV, MKV, WebM and more into MP4 — or pull the audio out as MP3 at the bitrate you choose. |
-| 🎥 **Screen Recorder** | A floating frame you place over any part of the screen. Record just that area, with system sound and your mic, straight to MP4. |
-| ⬇️ **Downloader** | Save videos from the web as MP4 — or just the audio as MP3 — straight into your Downloads folder. |
+### 🎵 MP3 Cutter
+Cut songs on a real waveform. Mark multiple sections to keep or remove, drag the handles, scrub the playhead, and export one clean MP3 with seamless joins.
+
+<img src="assets/mp3-keep.webp" alt="MP3 Cutter — waveform with keep sections" width="720">
+
+---
+
+### 🎬 MP4 Cutter
+Keep or remove several sections, crop the frame, drop the audio — all in one export. Frame-accurate, with smart bitrate detection so quality never collapses.
+
+<img src="assets/mp4.webp" alt="MP4 Cutter — video with timeline sections" width="720">
+
+---
+
+### 🔄 Converter
+Turn AVI, WMV, MKV, WebM and more into MP4 — or pull the audio out as MP3 at the bitrate you choose. Drop a file, pick the output, done.
+
+<img src="assets/converter.webp" alt="Converter — video to MP4 or audio to MP3" width="720">
+
+---
+
+### 🎥 Screen Recorder
+A floating frame you place over any part of the screen. Resize it, then record just that area — with system sound and your mic — straight to MP4.
+
+<img src="assets/recorder.webp" alt="Screen Recorder — resizable capture frame" width="720">
+
+---
+
+### ⬇️ Downloader
+Save videos from the web as MP4 — or just the audio as MP3 — straight into your Downloads folder, ready for the cutters.
+
+<img src="assets/downloader.webp" alt="Downloader — save web video as MP4 or MP3" width="720">
+
+---
 
 ## Why Slice?
 
