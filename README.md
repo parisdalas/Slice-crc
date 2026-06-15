@@ -21,13 +21,13 @@ Many tools in one app. No uploads, no account, no telemetry.
 
 ## What is Slice?
 
-Slice CRC is a Windows app that bundles five media tools into a single window. Everything runs **locally** with a built-in media engine — your files never get uploaded anywhere, and most tools work completely offline.
+Slice CRC is a Windows app that bundles several media tools into a single window. Everything runs **locally** with a built-in media engine — your files never get uploaded anywhere, and most tools work completely offline.
 
 It's built for people who want quick, no-nonsense media editing without throwing their files at a cloud service.
 
 ---
 
-## The five tools
+## The tools
 
 ### 🎵 MP3 Cutter
 Cut songs on a real waveform. Mark multiple sections to keep or remove, drag the handles, scrub the playhead, and export one clean MP3 with seamless joins.
@@ -69,7 +69,7 @@ Save videos from the web as MP4 — or just the audio as MP3 — straight into y
 - **100% local** — processing happens on your machine, nothing is uploaded
 - **No account, no telemetry** — it doesn't track you or phone home
 - **Works offline** — only the Downloader needs a connection
-- **One window** — five tools, no plugins, no extra codecs
+- **One window** — every tool in one place, no plugins, no extra codecs
 - **One-time purchase** — no subscription
 
 ## Requirements
