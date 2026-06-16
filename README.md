@@ -30,6 +30,7 @@ It's built for people who want quick, no-nonsense media editing without throwing
 ## The tools
 
 ### 🎵 MP3 Cutter
+
 Cut songs on a real waveform. Mark multiple sections to keep or remove, drag the handles, scrub the playhead, and export one clean MP3 with seamless joins.
 
 <img src="mp3-keep.webp" alt="MP3 Cutter — waveform with keep sections" width="720">
@@ -37,6 +38,7 @@ Cut songs on a real waveform. Mark multiple sections to keep or remove, drag the
 ---
 
 ### 🎬 MP4 Cutter
+
 Keep or remove several sections, crop the frame, drop the audio — all in one export. Frame-accurate, with smart bitrate detection so quality never collapses.
 
 <img src="mp4.webp" alt="MP4 Cutter — video with timeline sections" width="720">
@@ -44,6 +46,7 @@ Keep or remove several sections, crop the frame, drop the audio — all in one e
 ---
 
 ### 🔄 Converter
+
 Turn AVI, WMV, MKV, WebM and more into MP4 — or pull the audio out as MP3 at the bitrate you choose. Drop a file, pick the output, done.
 
 <img src="converter.webp" alt="Converter — video to MP4 or audio to MP3" width="720">
@@ -51,6 +54,7 @@ Turn AVI, WMV, MKV, WebM and more into MP4 — or pull the audio out as MP3 at t
 ---
 
 ### 🎥 Screen Recorder
+
 A floating frame you place over any part of the screen. Resize it, then record just that area — with system sound and your mic — straight to MP4.
 
 <img src="recorder.webp" alt="Screen Recorder — resizable capture frame" width="720">
@@ -58,9 +62,18 @@ A floating frame you place over any part of the screen. Resize it, then record j
 ---
 
 ### ⬇️ Downloader
+
 Save videos from the web as MP4 — or just the audio as MP3 — straight into your Downloads folder, ready for the cutters.
 
 <img src="downloader.webp" alt="Downloader — save web video as MP4 or MP3" width="720">
+
+---
+
+### ▶️ Slice Player
+
+A clean, lightweight media player built into Slice. Build a playlist, shuffle and repeat, scrub frame-by-frame, and go fullscreen. Set it as your default and double-click any video or song to open it instantly.
+
+<img src="player-alt.webp" alt="Slice Player — playback" width="720">
 
 ---
 
@@ -70,6 +83,7 @@ Save videos from the web as MP4 — or just the audio as MP3 — straight into y
 - **No account, no telemetry** — it doesn't track you or phone home
 - **Works offline** — only the Downloader needs a connection
 - **One window** — every tool in one place, no plugins, no extra codecs
+- **Built-in player** — play your media and set Slice as your default player
 - **One-time purchase** — no subscription
 
 ## Requirements
@@ -87,6 +101,7 @@ Slice is currently in **private beta**.
 
 - **Video in:** MP4, MOV, WebM, AVI, WMV, MKV and more → always exports **MP4**
 - **Audio in:** MP3, WAV, M4A, OGG → exports **MP3**
+- **Player plays:** MP4, MOV, WebM, MP3, WAV, M4A, FLAC, OGG and more
 - *(AV1 video isn't supported yet.)*
 
 ## Built with
@@ -102,6 +117,7 @@ Found a bug or have a feature request? [Open an issue](../../issues) — feedbac
 ## License
 
 **Slice CRC is proprietary software.**
+
 © 2026 Paris Dalakouras. All rights reserved.
 
 This repository is a public showcase. The application source code is **not** publicly available and is not licensed for redistribution or reuse.
